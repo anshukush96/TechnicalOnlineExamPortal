@@ -58,7 +58,7 @@
       </span>
   </h1>
 
-   <p><a class=" links" href="index.jsp">Home</a><a class=" links1" href="about.html" >About Us</a><a class=" links1" href="Login.jsp" >User Login</a></p>
+   <p><a class=" links" href="index.html">Home</a><a class=" links1" href="about.html" >About Us</a><a class=" links1" href="Login.jsp" >User Login</a></p>
 
     <div class="login-container">
         <h1> Admin Login</h1>

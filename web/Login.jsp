@@ -30,7 +30,7 @@
       </span>
   </h1>
 
-   <p><a class=" links" href="index.jsp">Home</a><a class=" links1" href="about.html" >About Us</a></p>
+   <p><a class=" links" href="index.html">Home</a><a class=" links1" href="about.html" >About Us</a></p>
        
 
     <div class="login-container">
