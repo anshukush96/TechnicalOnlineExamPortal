@@ -1,0 +1,234 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2024, 11:20:22 PM
+    Author     : HOME
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2024, 3:41:24 PM
+    Author     : HOME
+*/
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f0f0f0;
+        background-image: url("https://wallpapercave.com/wp/wp3458025.jpg");
+        background-size: cover;
+    }
+
+    
+    /*logo ka code*/
+/*  #logo{
+        text-align: left;
+        color: rgb(0, 0, 0);
+        
+    }
+    
+    .div{
+        margin-top: 20px;
+        margin-left: 20px;
+        border: 5px solid #07738b;
+        padding: 8px;
+        border-bottom-right-radius: 30px;
+        border-top-left-radius: 30px ;
+      
+    }*/
+
+/*logo ka code complete*/
+
+
+/*             .login-container {
+        border: 2px solid #312c2c;
+        padding: 20px;
+        margin: 20px auto;
+        width: 320px;
+        height: 400px;
+       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYXWGURK1JoXoZhOZcRzSNujt--6hQBBZzg&s");
+         background-color: #5b7cce; 
+         background-size: cover;
+    }*/
+
+/* #cameraFeed {
+                
+                  Distance from the bottom of the screen 
+                 Distance from the right of the screen 
+                  Width of the video feed 
+                 Height of the video feed 
+                 Optional border for visibility 
+                background-color: #000;  Black background as fallback 
+                z-index: 1000;  Ensure it's above other elements 
+                border-radius: 10px;  Optional: Rounded corners 
+            }*/
+         
+
+#score{
+    margin-left: 78%;
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: -55px;
+}
+#cameraFeed{
+    position: fixed;
+    bottom: 10px;
+     right: 10px;
+     width: 150px;
+      height: 120px;
+       border: 2px solid #000;
+}
+            .login{
+                background-repeat: no-repeat;
+                border: 2px solid pink;
+                height: 600px;
+                 width: 600px;
+                 margin-left: 400px;
+                display: flex;
+                align-content: center;
+                border-radius: 10px;
+                margin-top: 30px;
+                /*               margin-left: 470px;*/
+                justify-content: center;
+                align-items: center;
+               padding-left: 60px;
+                background-size: cover;
+               background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYXWGURK1JoXoZhOZcRzSNujt--6hQBBZzg&s");
+        
+            }
+            
+            .loginform tr td {
+                font-size: 25px;
+                color: black;
+
+            }
+            .loginform  input{
+                font-size: 20px;
+                margin: 15px;
+
+                height: 30px;
+                border-radius: 10px; 
+            }
+            .button{
+                background-color: black ;   
+                font-size: 20px;
+                margin: 15px;
+                color: white;
+                padding: 10px;
+
+                width: 150px;
+                border-radius: 10px; 
+            }
+            .right{
+                padding-right: 50px;
+                color: #4682B4;
+
+            }
+            .del{
+                margin-top: -50px;
+                margin-right: 50px;
+            }
+            #ques{
+                color: #003233;
+                width: 400px;
+              padding: 50px;
+               border: solid #006466 5px ;
+               border-radius: 80px;
+               margin-left: -40px;
+              
+            }
+            #option{
+                font-weight:bold;
+                 color: #004b4d;
+              padding: 10px;
+              margin: 30px;
+              margin-top: 40px;
+               border: solid #007d80 5px ;
+               border-radius: 80px;
+              
+            }
+            #option1{
+                 color: #004b4d;
+              padding: 10px;
+              margin: 30px;
+              font-weight:bold;
+              margin-top: 40px;
+               border: solid #007d80 5px ;
+               border-radius: 80px;
+             
+             
+            }
+            #option2{
+                color: #004b4d;
+              padding: 10px;
+              margin: 30px;
+              margin-top: 40px;
+               border: solid #007d80 5px ;
+               border-radius: 80px;
+               font-weight:bold;
+            }
+            #option3{
+                  color: #004b4d;
+              padding: 10px;
+              margin: 30px;
+              margin-top: 40px;
+               border: solid #007d80 5px ;
+               border-radius: 80px;
+               font-weight:bold;
+            }
+            .java{
+                
+                font-size: 30px;
+                color: black;
+                margin-left: 50px;
+            }
+            .time{
+                margin-top: 20px;
+                margin-right: 100px;
+                font-size: 20px;
+                color: black;
+            }
+            button {
+        background-color: #07738b;
+        color: rgb(255, 255, 255);
+        padding: 8px 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+        font-size: 16px;
+        border: solid #ded9d9 2px;
+
+    }
+     button:hover {
+        background-color: #ded9d9;
+        color: black;
+        border: solid black 2px;
+
+    }
+    #buttonsubmit a{
+         text-decoration: none;
+          color: rgb(255, 255, 255);
+           background-color: #07738b;;
+       
+        padding: 8px 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+         border: solid #ded9d9 2px;
+    }
+    #buttonsubmit a:hover {
+        background-color:  #ded9d9;
+        color: black;
+        border: solid black 2px;
+
+    }
+    
+           
+

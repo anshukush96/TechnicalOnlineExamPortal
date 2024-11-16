@@ -1,0 +1,172 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2024, 2:13:34 PM
+    Author     : HOME
+*/
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f0f0f0;
+        background-image: url("https://wallpapercave.com/wp/wp3458025.jpg");
+        background-size: cover;
+    }
+
+/*body{
+    background-image: url(https://www.8bellsresearch.com/wp-content/uploads/2021/08/Abstract-high-tech-digital-technology-background-made-of--scaled.jpeg);
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}*/
+    #logo{
+        text-align: left;
+        color: rgb(0, 0, 0);
+        
+    }
+    
+    .div{
+        margin-top: 20px;
+        margin-left: 20px;
+        border: 5px solid #07738b;
+        padding: 8px;
+        border-bottom-right-radius: 30px;
+        border-top-left-radius: 30px ;
+      
+    }
+    .links{
+         text-decoration: none;
+        text-align: right;
+         margin-left: 72%;
+        font-size: 20px;
+        color: black;
+        padding: 12px 25px;
+        border: none;
+        cursor: pointer; 
+        font-weight:550;
+    }
+    .links:hover{
+        color:#07738b;
+        
+    }
+    .links1{
+/*         text-align: right;*/
+         text-decoration: none;
+        font-size: 20px;
+        font-weight:550;
+        color: black;
+        padding: 12px 25px;
+        border: none;
+        cursor: pointer; 
+    }
+     .links1:hover{
+        color: #07738b;
+    }
+/*    links a{
+       
+        margin-right: 50px;
+        font-size: 20px;
+        color: rgb(253, 253, 253);
+        padding: 12px 25px;
+        border: none;
+        cursor: pointer; 
+    
+    }*/
+    
+    .login-container {
+        border: 2px solid #312c2c;
+        padding: 20px;
+        margin: 20px auto;
+        width: 320px;
+        height: 400px;
+       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYXWGURK1JoXoZhOZcRzSNujt--6hQBBZzg&s");
+        /* background-color: #5b7cce; */
+         background-size: cover;
+      
+
+
+    }
+    
+    h1 {
+        text-align: center;
+    }
+ 
+    
+    label {
+        color: #696262;
+        display: block;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-weight:550;
+        font-size: 20px;
+    }
+    
+    input {
+        margin-top: 8px;
+        width: 90%;
+        padding: 10px;
+        border: 2px solid #696262;
+        border-radius: 4px;
+        
+    }
+    
+    button {
+        background-color: #07738b;
+        color: rgb(255, 255, 255);
+        padding: 15px 30px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+        font-size: 16px;
+        border: solid #ded9d9 2px;
+
+    }
+     button:hover {
+        background-color: #ded9d9;
+        color: black;
+        border: solid black 2px;
+
+    }
+
+    .buttonadmin a{
+         text-decoration: none;
+          color: rgb(255, 255, 255);
+           background-color: #07738b;;
+       
+        padding: 15px 30px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+         border: solid #ded9d9 2px;
+    }
+    .buttonadmin a:hover {
+        background-color:  #ded9d9;
+        color: black;
+        border: solid black 2px;
+
+    }
+    
+   
+    .register{
+        margin-top: 30px;
+        color: #696262;
+    }
+    .register a{
+         margin-top: 30px;
+         margin-left: 10px;
+         font-size: 18px;
+        
+        color:rgb(255, 255, 255) ;
+      
+    }
+    register a :hover{
+         color: black;
+    }
+
+
+

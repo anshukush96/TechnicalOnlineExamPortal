@@ -1,0 +1,136 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2024, 2:43:32 PM
+    Author     : HOME
+*/
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f0f0f0;
+        background-image: url("https://wallpapercave.com/wp/wp3458025.jpg");
+        background-size: cover;
+    }
+     #logo{
+        text-align: left;
+        color: rgb(0, 0, 0);
+        
+    }
+ 
+    .div{
+        margin-top: 20px;
+        margin-left: 20px;
+        border: 5px solid #07738b;
+        padding: 8px;
+        border-bottom-right-radius: 30px;
+        border-top-left-radius: 30px ;
+      
+    }
+  
+  header {
+/*    background-color: #151127;*/
+    color: #009699;
+    padding: 10px;
+    margin-top: -90px;
+    margin-left: -100px;
+    font-size: 18px;
+/*    text-align: center;*/
+  }
+  
+ 
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding:10px;
+    padding-top: -30px;
+    margin-top: -55px;
+  }
+  
+  nav ul li {
+
+    display: inline-block;
+    margin: 0 10px;
+    margin-top: -20px;
+    float: right;
+}
+  
+  nav ul li a {
+     color: black;
+    text-decoration: none;
+font-size: 20px;
+font-weight:550;
+ padding: 12px 10px;
+    
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #hero {
+    text-align: center;
+    padding: 50px;
+    background-image: url("hero-image.jpg"); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #hero h2 {
+    color: #004b4d;
+    font-size: 25px;
+    margin-left: -70px;
+  }
+  
+  #hero p {
+    color: #006466;
+    margin-bottom: 60px;
+    margin-left: -70px;
+    font-size: 18px;
+  }
+  
+  
+   
+        
+        /*padding: 15px 30px;*/
+      
+        
+        
+  .btn {
+    background-color: #07738b;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: solid #ded9d9 2px;
+    margin-left: -70px;
+    margin-top: 50px;
+    text-decoration: none;
+  }
+  
+  
+  
+  #features {
+    text-align: center;
+    margin-left: -70px;
+  }
+  
+  #features ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #features ul li {
+    margin-bottom: 10px;
+    font-size: 17px;
+  }
+  footer{
+      margin-left: -50px;
+  }
+
+
+

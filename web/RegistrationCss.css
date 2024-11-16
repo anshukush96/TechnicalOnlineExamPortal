@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2024, 2:19:04 PM
+    Author     : HOME
+*/
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f0f0f0;
+        background-image: url("https://wallpapercave.com/wp/wp3458025.jpg");
+        background-size: cover;
+    }
+    
+     #logo{
+        text-align: left;
+        color: rgb(0, 0, 0);
+        
+    }
+    .div{
+        margin-top: 20px;
+        margin-left: 20px;
+        border: 5px solid #07738b;
+        padding: 8px;
+        border-bottom-right-radius: 30px;
+        border-top-left-radius: 30px ;
+      
+    }
+
+.links{
+         text-decoration: none;
+        text-align: right;
+         margin-left: 70%;
+        font-size: 20px;
+        color: black;
+        padding: 12px 25px;
+        border: none;
+        cursor: pointer; 
+        font-weight:550;
+    }
+    .links:hover{
+        color:#07738b;
+        
+    }
+    .links1{
+/*         text-align: right;*/
+         text-decoration: none;
+        font-size: 20px;
+        font-weight:550;
+        color: black;
+        padding: 12px 25px;
+        border: none;
+        cursor: pointer; 
+    }
+     .links1:hover{
+        color: #07738b;
+    }
+/*a{
+    color: rgb(255, 255, 255);
+    padding: 12px 25px;
+    cursor: pointer; 
+
+
+}*/
+
+.registration-container {
+    border: 2px solid #312c2c;
+    padding: 20px;
+    padding-top: 10px;
+    margin: 10px auto;
+    width: 320px;
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYXWGURK1JoXoZhOZcRzSNujt--6hQBBZzg&s");
+        /* background-color: #5b7cce; */
+         background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+/*label {
+    display: block;
+    margin-bottom: 10px;
+}*/
+ label {
+        color: #696262;
+        display: block;
+        margin-bottom: 10px;
+        font-weight:500;
+        font-size: 18px;
+    }
+
+input {
+    width: 90%;
+    padding: 10px;
+    border: 2px solid #696262;
+    border-radius: 4px;
+}
+
+ button {
+        background-color: #07738b;
+        color: rgb(255, 255, 255);
+        padding: 15px 30px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+        font-size: 16px;
+        border: solid #ded9d9 2px;
+
+    }
+button:hover {
+    background-color: #ffffff;
+    color: black;
+}
+.login{
+    margin-bottom: 1px;
+
+}
+ 
+.login a{
+    margin-top: 30px;
+         margin-left: 10px;
+         font-size: 18px;
+        
+        color:rgb(255, 255, 255) ;
+}
+.login a:hover{
+    
+}
